@@ -19,11 +19,12 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Wireframe 1: [Home Page]
 
-
+<img src='home.jpeg' title='Home Page Wireframe' width='' alt='' />
 
 ## Wireframe 2: [Community Listing Page]
-
+<img src='community_listing.jpeg' title='Community Listing Page Wireframe' width='' alt='' />
 
 
 ## Wireframe 3: [User Profile Page]
 
+<img src='user_profile.jpeg' title='User Profile Page Wireframe' width='' alt='' />
