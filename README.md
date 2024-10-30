@@ -1,6 +1,6 @@
 # Community Hub
 
-CodePath WEB103 Final Project
+CodePath WEB103 Final Project: CommunityHub
 
 Designed and developed by: Isha Shrestha
 
